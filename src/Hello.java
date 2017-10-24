@@ -1,7 +1,9 @@
 
 public class Hello {
 	public static void main(){
-		System.out.println("hello 0 perchè si parte sempre da 0");
+
+
+		System.out.println("hello 0 perchÃ¨ si parte sempre da 0");
 		System.out.println("hello 1");
 		System.out.println("hello 2");
 		System.out.println("hello 3");
@@ -20,5 +22,7 @@ public class Hello {
 		System.out.println("hello 77");
 		System.out.println("hello 88");
 		System.out.println("hello 99");
+    System.out.println("BOOM!");
+
 	}
 }
