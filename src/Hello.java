@@ -1,6 +1,6 @@
 
 public class Hello {
 	public static void main(){
-		System.out.println("hello wdgvvasfdb");
+		System.out.println("hello bello");
 	}
 }
